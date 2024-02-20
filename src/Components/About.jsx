@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/img3.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "ML Engineer";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "As a computer scientist, I am driven by the belief that technology has the power to change the world for the better. With a passion for innovation and a deep understanding of complex systems, I have dedicated my career to pushing the boundaries of what's possible. Whether I'm developing cutting-edge software or exploring the frontiers of artificial intelligence, I am always striving to make a meaningful impact through my work.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "ML Engineer",
+  "AI Enthusiast",
+  "NLP & CV",
+  "Web developer",
+  "Django Developer",
+  "UI UX",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a computer scientist, I am driven by the belief that technology has the power to change the world for the better. With a passion for innovation and a deep understanding of complex systems, I have dedicated my career to pushing the boundaries of what's possible. Whether I'm developing cutting-edge software or exploring the frontiers of artificial intelligence, I am always striving to make a meaningful impact through my work.";
 
 const About = () => {
   return (

@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/img1.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "As a computer scientist, I am driven by the belief that technology has the power to change the world for the better. With a passion for innovation and a deep understanding of complex systems, I have dedicated my career to pushing the boundaries of what's possible. Whether I'm developing cutting-edge software or exploring the frontiers of artificial intelligence, I am always striving to make a meaningful impact through my work.";
 
 const Home = ({ name, title }) => {
   return (
